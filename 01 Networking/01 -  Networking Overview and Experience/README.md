@@ -4,7 +4,7 @@
 ## 📖 Introduction
 This document contains my notes from the **first video of the Networking Module** in the *Frontend System Design* course.  
 
-👉 Code Demonstration Link: [Frontend-System-Design Repository](https://github.com/akshadjaiswal/Frontend-System-Design)
+Learning : [Frontend-System-Design Repository](https://github.com/akshadjaiswal/Frontend-System-Design)
 
 Networking is one of the **most critical foundations** for any frontend engineer. While many developers think of networking as something only backend engineers or network specialists need, the truth is that **every frontend developer must understand how networking works**.  
 

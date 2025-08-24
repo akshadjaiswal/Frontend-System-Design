@@ -3,7 +3,7 @@
 
 ## 📖 About This Repository
 
-This is my personal learning repository for the ** Frontend System Design**. I'm documenting my journey through frontend system design concepts and sharing detailed notes, code examples, and projects to help both myself and fellow learners.
+This is my personal learning repository for the **Frontend System Design**. I'm documenting my journey through frontend system design concepts and sharing detailed notes, code examples, and projects to help both myself and fellow learners.
 
 > 💡 **Note:** This is a student-created learning resource, not official course material. Feel free to use it for your own learning journey!
 
