@@ -5,13 +5,13 @@
 
 ## Table of Contents
 
-1.  [Introduction and High-Level Overview](https://github.com/akshadjaiswal/Frontend-System-Design/tree/main/01%20Networking/02%20How%20the%20Web%20works#1-introduction-and-high-level-overview)
-2.  [Networking Basics: Connecting Devices](https://github.com/akshadjaiswal/Frontend-System-Design/tree/main/01%20Networking/02%20How%20the%20Web%20works#2-networking-basics-connecting-devices)
-3.  [DNS (Domain Name System) in Depth](https://github.com/akshadjaiswal/Frontend-System-Design/tree/main/01%20Networking/02%20How%20the%20Web%20works#3-dns-domain-name-system-in-depth)
-4.  [Servers and Data Centers](https://github.com/akshadjaiswal/Frontend-System-Design/tree/main/01%20Networking/02%20How%20the%20Web%20works#4-servers-and-data-centers)
-5.  [ISP Architecture and Optimizations](https://github.com/akshadjaiswal/Frontend-System-Design/tree/main/01%20Networking/02%20How%20the%20Web%20works#5-isp-architecture-and-optimizations)
-6.  [Browser-Side Processes: From Request to Render](https://github.com/akshadjaiswal/Frontend-System-Design/tree/main/01%20Networking/02%20How%20the%20Web%20works#6-browser-side-processes-from-request-to-render)
-7.  [Advanced Insights and Real-World Applications](https://github.com/akshadjaiswal/Frontend-System-Design/tree/main/01%20Networking/02%20How%20the%20Web%20works#7-advanced-insights-and-real-world-applications)
+1.  [Introduction and High-Level Overview](https://github.com/akshadjaiswal/Frontend-System-Design/tree/main/01%20Networking/02%20-%20How%20the%20Web%20works#1-introduction-and-high-level-overview)
+2.  [Networking Basics: Connecting Devices](https://github.com/akshadjaiswal/Frontend-System-Design/tree/main/01%20Networking/02%20-%20How%20the%20Web%20works#2-networking-basics-connecting-devices)
+3.  [DNS (Domain Name System) in Depth](https://github.com/akshadjaiswal/Frontend-System-Design/tree/main/01%20Networking/02%20-%20How%20the%20Web%20works#3-dns-domain-name-system-in-depth)
+4.  [Servers and Data Centers](https://github.com/akshadjaiswal/Frontend-System-Design/tree/main/01%20Networking/02%20-%20How%20the%20Web%20works#4-servers-and-data-centers)
+5.  [ISP Architecture and Optimizations](https://github.com/akshadjaiswal/Frontend-System-Design/tree/main/01%20Networking/02%20-%20How%20the%20Web%20works#5-isp-architecture-and-optimizations)
+6.  [Browser-Side Processes: From Request to Render](https://github.com/akshadjaiswal/Frontend-System-Design/tree/main/01%20Networking/02%20-%20How%20the%20Web%20works#6-browser-side-processes-from-request-to-render)
+7.  [Advanced Insights and Real-World Applications](https://github.com/akshadjaiswal/Frontend-System-Design/tree/main/01%20Networking/02%20-%20How%20the%20Web%20works#7-advanced-insights-and-real-world-applications)
 
 ----------
 
