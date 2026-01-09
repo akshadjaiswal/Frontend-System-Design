@@ -57,7 +57,7 @@ Each module contains:
 
 ### 📋 Upcoming Modules
 
--   [ ] Module 1: [Networking]()
+-   [X] Module 1: [Networking]()
 -   [ ] Module 2: [Communication]()
 -   [ ] Module 3: [Security]()
 -   [ ] Module 4: [Testing]()
